@@ -1,0 +1,3 @@
+[submodule "lc2016"]
+	path = lc2016
+	url = git@github.com:sattlerc/lc2016.git
